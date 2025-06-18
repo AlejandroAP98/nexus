@@ -1,11 +1,11 @@
 [build-system]
-requires = ["setuptools","wheel"]
-build-backend= "setuptools.build_meta"
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
 
 [project]
 name = "milib-ejemplo"
-verison = "0.0.1"
+version = "0.0.1" 
 description = "Una librería de prueba para Nexus"
-authors = [{ name = "Alejandro", email = "aalvarezpa@unal.edu.co"}]
+authors = [{ name = "Alejandro", email = "aalvarezpa@unal.edu.co" }]
 requires-python = ">=3.6"
 dependencies = []
