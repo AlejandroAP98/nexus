@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="milib-ejemplo",
-    version="0.0.2",
+    version="0.0.3",
     author="Alejandro",
     author_email="aalvarezpa@unal.edu.co",
     description="Esta es una librería para subir a Nexus",
