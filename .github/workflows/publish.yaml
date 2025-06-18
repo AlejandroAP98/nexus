@@ -3,8 +3,8 @@ name: Build and Publish Python Package to Nexus
 on:
   push:
     branches:
-      - nexus
-
+      - main
+    
 jobs:
   deploy:
     runs-on: ubuntu-latest
